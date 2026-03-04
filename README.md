@@ -1,4 +1,4 @@
-# Uoffer Portable Application
+# Writing-agent Application
 
 A portable, migration-friendly desktop app that removes hardcoded local paths and embedded sensitive settings.
 
