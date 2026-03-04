@@ -1,0 +1,9 @@
+{
+  "openrouter_api_key": "",
+  "default_model": "anthropic/claude-sonnet-4.6",
+  "request_timeout_sec": 220,
+  "retries": 1,
+  "data_root": "",
+  "default_word_min": 750,
+  "default_word_max": 900
+}
